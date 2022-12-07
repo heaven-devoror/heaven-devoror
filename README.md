@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heaven-devoror
 - 👀 I’m interested in new upcoming techs and how to make life hassle free for people around me
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning Postgres SQL
+- 💞️ I’m looking to collaborate on python / SQL projects
 - 📫 How to reach me raviyo123@gmail.com
 
 <!---
